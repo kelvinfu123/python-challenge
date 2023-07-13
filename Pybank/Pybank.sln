@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pybank", "Pybank.pyproj", "{8381B6D8-AF0C-42FF-A0F6-CC30DF1B222E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8381B6D8-AF0C-42FF-A0F6-CC30DF1B222E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8381B6D8-AF0C-42FF-A0F6-CC30DF1B222E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC7E3B7-F289-413D-B3EA-9F6BE9A2EDB3}
+	EndGlobalSection
+EndGlobal
